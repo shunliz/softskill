@@ -1,8 +1,6 @@
 ## “没事还是多挣点钱吧” {#activity-name}
 
-
-
-![](https://mmbiz.qpic.cn/mmbiz_png/GTJa0VtlmibJb06GC8zCygqTpJVkKHaGYnM4iakoXibU6A0FUAgYOnLtLK1BJQpOfcVVF1CQoOcppUpNib1c3VGutA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)Slowtime \| 慢时光
+![](https://mmbiz.qpic.cn/mmbiz_png/GTJa0VtlmibJb06GC8zCygqTpJVkKHaGYnM4iakoXibU6A0FUAgYOnLtLK1BJQpOfcVVF1CQoOcppUpNib1c3VGutA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/YGXQ6RJaRyl0wpJW0CdUNXCWUFJqWF7FCdLrXSYOJu8dAB7iay2AurHH0uzBuoBBKrUJ1D7y6icEavAOKrZYqVbg/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
@@ -61,8 +59,6 @@
 作者说，
 
 > 青春散场，一个跟头摔进中年，突然感受得到生活的锋利和艰难，倘若有爱又有钱，来支撑父母摇摇晃晃的晚年，那真是一件无比幸运的事。
->
->
 >
 > **愿我努力的速度，赶上父母老去的速度。**
 
