@@ -15,4 +15,5 @@
   * [德国妈妈的岗位说明书](de-guo-ma-ma-de-gang-wei-shuo-ming-shu.md)
 * [职场](zhi-chang.md)
   * [那些你不愿说给领导的话](zhi-chang/na-xie-ni-bu-yuan-shuo-gei-ling-dao-de-hua.md)
+  * [横向领导力](zhi-chang/heng-xiang-ling-dao-li.md)
 
