@@ -21,4 +21,5 @@
   * [累死你的不是工作，而是工作方式！](zhi-chang/lei-si-ni-de-bu-shi-gong-zuo-ff0c-er-shi-gong-zuo-fang-shi-ff01.md)
   * [什么叫工作到位？8张图，拿走不谢](zhi-chang/shi-yao-jiao-gong-zuo-dao-wei-ff1f-8-zhang-tu-ff0c-na-zou-bu-xie.md)
   * [团队管理核心十点](zhi-chang/tuan-dui-guan-li-he-xin-shi-dian.md)
+  * [带团队很简单，管理就是十六字！](zhi-chang/dai-tuan-dui-hen-jian-dan-ff0c-guan-li-jiu-shi-shi-liu-zi-ff01.md)
 
