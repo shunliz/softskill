@@ -14,8 +14,9 @@
 * 麦肯锡
   * [如何做行业研究](ru-he-zuo-xing-ye-yan-jiu.md)
   * [培养领导力](pei-yang-ling-dao-li.md)
-* 育儿
+* [育儿](yu-er.md)
   * [德国妈妈的岗位说明书](de-guo-ma-ma-de-gang-wei-shuo-ming-shu.md)
+  * [一个CEO给母亲的信,值得学习](yi-ge-ceo-gei-mu-qin-de-4fe12c-zhi-de-xue-xi.md)
 * [职场](zhi-chang.md)
   * [那些你不愿说给领导的话](zhi-chang/na-xie-ni-bu-yuan-shuo-gei-ling-dao-de-hua.md)
   * [横向领导力](zhi-chang/heng-xiang-ling-dao-li.md)
