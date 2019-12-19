@@ -22,4 +22,5 @@
   * [什么叫工作到位？8张图，拿走不谢](zhi-chang/shi-yao-jiao-gong-zuo-dao-wei-ff1f-8-zhang-tu-ff0c-na-zou-bu-xie.md)
   * [团队管理核心十点](zhi-chang/tuan-dui-guan-li-he-xin-shi-dian.md)
   * [带团队很简单，管理就是十六字！](zhi-chang/dai-tuan-dui-hen-jian-dan-ff0c-guan-li-jiu-shi-shi-liu-zi-ff01.md)
+  * 能扛事，才是一个人最了不起的才华
 
