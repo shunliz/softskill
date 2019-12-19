@@ -9,6 +9,7 @@
   * [放大你的格局](fang-da-ni-de-ge-ju.md)
   * [做事的常识](zuo-shi-de-chang-shi.md)
   * 知乎上的48条神回复
+  * [决定一个人能走多远的，不是努力，而是这3种"隐形成本"！](jue-ding-yi-ge-ren-neng-zou-duo-yuan-de-ff0c-bu-shi-nu-li-ff0c-er-shi-zhe-3-79cd22-yin-xing-cheng-672c22-ff01.md)
 * 麦肯锡
   * [如何做行业研究](ru-he-zuo-xing-ye-yan-jiu.md)
   * [培养领导力](pei-yang-ling-dao-li.md)
