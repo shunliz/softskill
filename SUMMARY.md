@@ -17,4 +17,5 @@
 * [职场](zhi-chang.md)
   * [那些你不愿说给领导的话](zhi-chang/na-xie-ni-bu-yuan-shuo-gei-ling-dao-de-hua.md)
   * [横向领导力](zhi-chang/heng-xiang-ling-dao-li.md)
+  * [累死你的不是工作，而是工作方式！](zhi-chang/lei-si-ni-de-bu-shi-gong-zuo-ff0c-er-shi-gong-zuo-fang-shi-ff01.md)
 
