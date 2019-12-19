@@ -7,6 +7,7 @@
   * [没事多挣点钱](mei-shi-duo-zheng-dian-qian.md)
   * [跟谁一起工作，到底有多重要](gen-shui-yi-qi-gong-zuo-ff0c-dao-di-you-duo-zhong-yao.md)
   * [放大你的格局](fang-da-ni-de-ge-ju.md)
+  * [做事的常识](zuo-shi-de-chang-shi.md)
 * 麦肯锡
   * [如何做行业研究](ru-he-zuo-xing-ye-yan-jiu.md)
   * [培养领导力](pei-yang-ling-dao-li.md)
