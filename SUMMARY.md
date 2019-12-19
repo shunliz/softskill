@@ -23,4 +23,5 @@
   * [团队管理核心十点](zhi-chang/tuan-dui-guan-li-he-xin-shi-dian.md)
   * [带团队很简单，管理就是十六字！](zhi-chang/dai-tuan-dui-hen-jian-dan-ff0c-guan-li-jiu-shi-shi-liu-zi-ff01.md)
   * 能扛事，才是一个人最了不起的才华
+  * [高效能塔：厉害的人比你少努力却比你收获多](zhi-chang/gao-xiao-neng-ta-ff1a-li-hai-de-ren-bi-ni-shao-nu-li-que-bi-ni-shou-huo-duo.md)
 
