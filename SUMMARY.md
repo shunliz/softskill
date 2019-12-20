@@ -16,6 +16,7 @@
   * [培养领导力](pei-yang-ling-dao-li.md)
   * [红杉资本 \| 商业计划书模板](hong-shan-zi-ben-shang-ye-ji-hua-shu-mo-ban.md)
   * [40页PPT看懂麦肯锡的思考方式和沟通法则](40ye-ppt-kan-dong-mai-ken-xi-de-si-kao-fang-shi-he-gou-tong-fa-ze.md)
+  * [麦肯锡顾问的十大底层逻辑](mai-ken-xi-gu-wen-de-shi-da-di-ceng-luo-ji.md)
 * [育儿](yu-er.md)
   * [德国妈妈的岗位说明书](de-guo-ma-ma-de-gang-wei-shuo-ming-shu.md)
   * [一个CEO给母亲的信,值得学习](yi-ge-ceo-gei-mu-qin-de-4fe12c-zhi-de-xue-xi.md)
