@@ -11,9 +11,10 @@
   * 知乎上的48条神回复
   * [决定一个人能走多远的，不是努力，而是这3种"隐形成本"！](jue-ding-yi-ge-ren-neng-zou-duo-yuan-de-ff0c-bu-shi-nu-li-ff0c-er-shi-zhe-3-79cd22-yin-xing-cheng-672c22-ff01.md)
   * [七种应刻意训练的思维方式，让生活慢慢变好](qi-zhong-ying-ke-yi-xun-lian-de-si-wei-fang-shi-ff0c-rang-sheng-huo-man-man-bian-hao.md)
-* 麦肯锡
+* [麦肯锡](mai-ken-xi.md)
   * [如何做行业研究](ru-he-zuo-xing-ye-yan-jiu.md)
   * [培养领导力](pei-yang-ling-dao-li.md)
+  * [红杉资本 \| 商业计划书模板](hong-shan-zi-ben-shang-ye-ji-hua-shu-mo-ban.md)
 * [育儿](yu-er.md)
   * [德国妈妈的岗位说明书](de-guo-ma-ma-de-gang-wei-shuo-ming-shu.md)
   * [一个CEO给母亲的信,值得学习](yi-ge-ceo-gei-mu-qin-de-4fe12c-zhi-de-xue-xi.md)
