@@ -11,6 +11,7 @@
   * 知乎上的48条神回复
   * [决定一个人能走多远的，不是努力，而是这3种"隐形成本"！](jue-ding-yi-ge-ren-neng-zou-duo-yuan-de-ff0c-bu-shi-nu-li-ff0c-er-shi-zhe-3-79cd22-yin-xing-cheng-672c22-ff01.md)
   * [七种应刻意训练的思维方式，让生活慢慢变好](qi-zhong-ying-ke-yi-xun-lian-de-si-wei-fang-shi-ff0c-rang-sheng-huo-man-man-bian-hao.md)
+  * [乾隆：虚假的盛世（深刻）](gan-long-ff1a-xu-jia-de-sheng-shi-ff08-shen-ke-ff09.md)
 * [麦肯锡](mai-ken-xi.md)
   * [如何做行业研究](ru-he-zuo-xing-ye-yan-jiu.md)
   * [培养领导力](pei-yang-ling-dao-li.md)
