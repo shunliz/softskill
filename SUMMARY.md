@@ -18,6 +18,7 @@
   * [40页PPT看懂麦肯锡的思考方式和沟通法则](40ye-ppt-kan-dong-mai-ken-xi-de-si-kao-fang-shi-he-gou-tong-fa-ze.md)
   * [麦肯锡顾问的十大底层逻辑](mai-ken-xi-gu-wen-de-shi-da-di-ceng-luo-ji.md)
   * [咨询顾问的黄金思考方法](zi-xun-gu-wen-de-huang-jin-si-kao-fang-fa.md)
+  * 世界上最好的学习法：费曼学习法
 * [育儿](yu-er.md)
   * [德国妈妈的岗位说明书](de-guo-ma-ma-de-gang-wei-shuo-ming-shu.md)
   * [一个CEO给母亲的信,值得学习](yi-ge-ceo-gei-mu-qin-de-4fe12c-zhi-de-xue-xi.md)
