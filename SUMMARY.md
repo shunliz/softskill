@@ -12,6 +12,7 @@
   * [决定一个人能走多远的，不是努力，而是这3种"隐形成本"！](jue-ding-yi-ge-ren-neng-zou-duo-yuan-de-ff0c-bu-shi-nu-li-ff0c-er-shi-zhe-3-79cd22-yin-xing-cheng-672c22-ff01.md)
   * [七种应刻意训练的思维方式，让生活慢慢变好](qi-zhong-ying-ke-yi-xun-lian-de-si-wei-fang-shi-ff0c-rang-sheng-huo-man-man-bian-hao.md)
   * [乾隆：虚假的盛世（深刻）](gan-long-ff1a-xu-jia-de-sheng-shi-ff08-shen-ke-ff09.md)
+  * [比哈佛文凭更重要的是 分析和解决问题的能力以及沟通能力](bi-ha-fo-wen-ping-geng-zhong-yao-de-shi-fen-xi-he-jie-jue-wen-ti-de-neng-li-yi-ji-gou-tong-neng-li.md)
 * [麦肯锡](mai-ken-xi.md)
   * [如何做行业研究](ru-he-zuo-xing-ye-yan-jiu.md)
   * [培养领导力](pei-yang-ling-dao-li.md)
@@ -22,6 +23,7 @@
   * 世界上最好的学习法：费曼学习法
   * [麦肯锡精英的10个工作习惯](mai-ken-xi-jing-ying-de-10-ge-gong-zuo-xi-guan.md)
   * [解决问题之道](jie-jue-wen-ti-zhi-dao.md)
+  * [关键20小时，快速学会任何技能](guan-jian-20-xiao-shi-ff0c-kuai-su-xue-hui-ren-he-ji-neng.md)
 * [育儿](yu-er.md)
   * [德国妈妈的岗位说明书](de-guo-ma-ma-de-gang-wei-shuo-ming-shu.md)
   * [一个CEO给母亲的信,值得学习](yi-ge-ceo-gei-mu-qin-de-4fe12c-zhi-de-xue-xi.md)
