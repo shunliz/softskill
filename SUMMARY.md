@@ -31,6 +31,7 @@
   * [怎样把PPT做的像麦肯锡一样专业](zen-yang-ba-ppt-zuo-de-xiang-mai-ken-xi-yi-yang-zhuan-ye.md)
   * [麦肯锡方法其实不神秘？](mai-ken-xi-fang-fa-qi-shi-bu-shen-mi-ff1f.md)
   * [方案怎么写，才能打动客户？哪些内容才是客户眼中的干货](fang-an-zen-yao-xie-ff0c-cai-neng-da-dong-ke-hu-ff1f-na-xie-nei-rong-cai-shi-ke-hu-yan-zhong-de-gan-huo.md)
+  * [并购尽职调查应如何进行（中金与Morgan Stanley为例）](bing-gou-jin-zhi-diao-chaying-ru-he-jin-xing-ff08-zhong-jin-yu-morgan-stanley-wei-li-ff09.md)
 * [育儿](yu-er.md)
   * [德国妈妈的岗位说明书](de-guo-ma-ma-de-gang-wei-shuo-ming-shu.md)
   * [一个CEO给母亲的信,值得学习](yi-ge-ceo-gei-mu-qin-de-4fe12c-zhi-de-xue-xi.md)
