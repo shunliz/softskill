@@ -28,6 +28,8 @@
   * [麦肯锡七步成诗战略规划法](mai-ken-xi-qi-bu-cheng-shi-zhan-lve-gui-hua-fa.md)
   * [关于尽职调查史上最全总结的九种方法](guan-yu-jin-zhi-diao-cha-shi-shang-zui-quan-zong-jie-de-jiu-zhong-fang-fa.md)
   * [一个招投标项目从开始到结束](yi-ge-zhao-tou-biao-xiang-mu-cong-kai-shi-dao-jie-shu.md)
+  * [怎样把PPT做的像麦肯锡一样专业](zen-yang-ba-ppt-zuo-de-xiang-mai-ken-xi-yi-yang-zhuan-ye.md)
+  * [麦肯锡方法其实不神秘？](mai-ken-xi-fang-fa-qi-shi-bu-shen-mi-ff1f.md)
 * [育儿](yu-er.md)
   * [德国妈妈的岗位说明书](de-guo-ma-ma-de-gang-wei-shuo-ming-shu.md)
   * [一个CEO给母亲的信,值得学习](yi-ge-ceo-gei-mu-qin-de-4fe12c-zhi-de-xue-xi.md)
