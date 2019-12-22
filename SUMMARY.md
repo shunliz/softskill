@@ -13,6 +13,7 @@
   * [七种应刻意训练的思维方式，让生活慢慢变好](qi-zhong-ying-ke-yi-xun-lian-de-si-wei-fang-shi-ff0c-rang-sheng-huo-man-man-bian-hao.md)
   * [乾隆：虚假的盛世（深刻）](gan-long-ff1a-xu-jia-de-sheng-shi-ff08-shen-ke-ff09.md)
   * [比哈佛文凭更重要的是 分析和解决问题的能力以及沟通能力](bi-ha-fo-wen-ping-geng-zhong-yao-de-shi-fen-xi-he-jie-jue-wen-ti-de-neng-li-yi-ji-gou-tong-neng-li.md)
+  * [《原则》作者达利欧](yuan-ze-300b-zuo-zhe-da-li-ou-ff1a-yi-qie-jie-du-du-bu-ji-zi-ji-yong-16-ye-ppt-che-di-jiang-qing.md)
 * [麦肯锡](mai-ken-xi.md)
   * [如何做行业研究](ru-he-zuo-xing-ye-yan-jiu.md)
   * [培养领导力](pei-yang-ling-dao-li.md)
