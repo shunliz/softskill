@@ -46,6 +46,7 @@
   * 能扛事，才是一个人最了不起的才华
   * [高效能塔：厉害的人比你少努力却比你收获多](zhi-chang/gao-xiao-neng-ta-ff1a-li-hai-de-ren-bi-ni-shao-nu-li-que-bi-ni-shou-huo-duo.md)
   * [能否赢得上司的尊重，其实99%都取决于你自己](zhi-chang/neng-fou-ying-de-shang-si-de-zun-zhong-ff0c-qi-shi-99-du-qu-jue-yu-ni-zi-ji.md)
+  * [项目管理从稚嫩到成熟到卓越](zhi-chang/xiang-mu-guan-li-cong-zhi-nen-dao-cheng-shu-dao-zhuo-yue.md)
 * 创业
   * [股权](gu-quan.md)
   * [创业团队的HR究竟能为CEO做什么？](chuang-ye-tuan-dui-de-hr-jiu-jing-neng-wei-ceo-zuo-shi-yao-ff1f.md)
