@@ -52,6 +52,7 @@
   * [股权](gu-quan.md)
   * [创业团队的HR究竟能为CEO做什么？](chuang-ye-tuan-dui-de-hr-jiu-jing-neng-wei-ceo-zuo-shi-yao-ff1f.md)
   * [胡宁：从“人事钱心”四个方面，讲述跨过技术创业的那些坎儿](hu-ning-ff1a-cong-201c-ren-shi-qian-xin-201d-si-ge-fang-mian-ff0c-jiang-shu-kua-guo-ji-zhu-chuang-ye-de-na-xie-kan-er.md)
+  * [为什么说创业公司不该有雇不起的人？](wei-shi-yao-shuo-chuang-ye-gong-si-bu-gai-you-gu-bu-qi-de-ren-ff1f.md)
 * 知识
   * [国家四大基础数据库相关解读和理解](guo-jia-si-da-ji-chu-shu-ju-ku-xiang-guan-jie-du-he-li-jie.md)
 
