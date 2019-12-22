@@ -27,6 +27,7 @@
   * [要熟练掌握的七个人生工具（SWOT、PDCA、6W2H、SMART、WBS、时间管理、二八原则）](yao-shu-lian-zhang-wo-de-qi-ge-ren-sheng-gong-ju-ff08-swot-pdca-6w2h-smart-wbs-3001-shi-jian-guan-li-3001-er-ba-yuan-ze-ff09.md)
   * [麦肯锡七步成诗战略规划法](mai-ken-xi-qi-bu-cheng-shi-zhan-lve-gui-hua-fa.md)
   * [关于尽职调查史上最全总结的九种方法](guan-yu-jin-zhi-diao-cha-shi-shang-zui-quan-zong-jie-de-jiu-zhong-fang-fa.md)
+  * [一个招投标项目从开始到结束](yi-ge-zhao-tou-biao-xiang-mu-cong-kai-shi-dao-jie-shu.md)
 * [育儿](yu-er.md)
   * [德国妈妈的岗位说明书](de-guo-ma-ma-de-gang-wei-shuo-ming-shu.md)
   * [一个CEO给母亲的信,值得学习](yi-ge-ceo-gei-mu-qin-de-4fe12c-zhi-de-xue-xi.md)
