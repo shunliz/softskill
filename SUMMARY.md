@@ -59,4 +59,5 @@
   * [国家四大基础数据库相关解读和理解](guo-jia-si-da-ji-chu-shu-ju-ku-xiang-guan-jie-du-he-li-jie.md)
 * 财务分析
   * [最透彻的财务分析深度解析（适合收藏）](zui-tou-che-de-cai-wu-fen-xi-shen-du-jie-xi-ff08-shi-he-shou-cang-ff09.md)
+  * [财务分析如何提供决策支持？](cai-wu-fen-xi-ru-he-ti-gong-jue-ce-zhi-chi-ff1f.md)
 
