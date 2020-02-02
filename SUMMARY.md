@@ -35,6 +35,7 @@
   * [方案怎么写，才能打动客户？哪些内容才是客户眼中的干货](fang-an-zen-yao-xie-ff0c-cai-neng-da-dong-ke-hu-ff1f-na-xie-nei-rong-cai-shi-ke-hu-yan-zhong-de-gan-huo.md)
   * [并购尽职调查应如何进行（中金与Morgan Stanley为例）](bing-gou-jin-zhi-diao-chaying-ru-he-jin-xing-ff08-zhong-jin-yu-morgan-stanley-wei-li-ff09.md)
   * [麦肯锡 \| 如何让PPT提升10倍价值感](mai-ken-xi-ru-he-rang-ppt-ti-sheng-10-bei-jia-zhi-gan.md)
+  * [框架思维：解决问题的能力](kuang-jia-si-wei-ff1a-jie-jue-wen-ti-de-neng-li.md)
 * [育儿](yu-er.md)
   * [德国妈妈的岗位说明书](de-guo-ma-ma-de-gang-wei-shuo-ming-shu.md)
   * [一个CEO给母亲的信,值得学习](yi-ge-ceo-gei-mu-qin-de-4fe12c-zhi-de-xue-xi.md)
