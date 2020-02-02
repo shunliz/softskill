@@ -55,4 +55,6 @@
   * [为什么说创业公司不该有雇不起的人？](wei-shi-yao-shuo-chuang-ye-gong-si-bu-gai-you-gu-bu-qi-de-ren-ff1f.md)
 * 知识
   * [国家四大基础数据库相关解读和理解](guo-jia-si-da-ji-chu-shu-ju-ku-xiang-guan-jie-du-he-li-jie.md)
+* 财务分析
+  * [最透彻的财务分析深度解析（适合收藏）](zui-tou-che-de-cai-wu-fen-xi-shen-du-jie-xi-ff08-shi-he-shou-cang-ff09.md)
 
